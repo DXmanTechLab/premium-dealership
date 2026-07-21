@@ -7,8 +7,8 @@ export default function AdminPage() {
 
       async function signIn() {
           await supabase.auth.signInWithPassword({
-                email: "admin@example.com",   // replace with your admin email
-                      password: "yourpassword",     // replace with your admin password
+                email: "nwekedanielonyedikachi@microsoft.com",
+                      password: "Danzy042@",
                           });
                             }
 
